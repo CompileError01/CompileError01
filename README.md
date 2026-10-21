@@ -12,7 +12,7 @@ I'm a student at **HTL Leonding**, currently visiting CSI and learning my way ar
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Technologies 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=rust,cs,c,git,github" alt="Technologies and tools">
@@ -31,7 +31,7 @@ I'm a student at **HTL Leonding**, currently visiting CSI and learning my way ar
 
 ## 🎯 My Interests
 
-| 💻 Coding | ✈️ Aviation | Sports |
+| 💻 Coding | Homelab | Sports |
 |:---:|:---:|:---:|
 | Creating Projects | Exploring Tech | Working Out |
 
